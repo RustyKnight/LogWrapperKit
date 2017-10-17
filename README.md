@@ -1,4 +1,5 @@
 #LogWrapperKit
+
 The intention is to provide a unified API around the basic concept of logging, where the underlying implementation is
 unimportant to the people using the API, who are only concerned with generating some kind of logging output during the 
 development process.
