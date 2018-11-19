@@ -54,6 +54,8 @@ public protocol LogServiceDelegate {
 
 public struct DefaultLogServiceDelegate: LogServiceDelegate {
 	
+	public init() {}
+	
 	func log(prefix: String, message: String, file: StaticString, function: StaticString, line: UInt) {
 		let components = file.description.components(separatedBy: "/")
 		guard let name = components.last else {
