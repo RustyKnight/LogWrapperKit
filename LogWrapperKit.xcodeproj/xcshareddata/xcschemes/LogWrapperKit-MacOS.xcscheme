@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "70826E6F201C19FE002B59F6"
-               BuildableName = "LogWrapperKit_MacOS.framework"
+               BlueprintIdentifier = "70826E90201C1F1B002B59F6"
+               BuildableName = "LogWrapperKit.framework"
                BlueprintName = "LogWrapperKit-MacOS"
                ReferencedContainer = "container:LogWrapperKit.xcodeproj">
             </BuildableReference>
@@ -26,7 +26,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -37,7 +36,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -47,8 +45,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "70826E6F201C19FE002B59F6"
-            BuildableName = "LogWrapperKit_MacOS.framework"
+            BlueprintIdentifier = "70826E90201C1F1B002B59F6"
+            BuildableName = "LogWrapperKit.framework"
             BlueprintName = "LogWrapperKit-MacOS"
             ReferencedContainer = "container:LogWrapperKit.xcodeproj">
          </BuildableReference>
@@ -65,8 +63,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "70826E6F201C19FE002B59F6"
-            BuildableName = "LogWrapperKit_MacOS.framework"
+            BlueprintIdentifier = "70826E90201C1F1B002B59F6"
+            BuildableName = "LogWrapperKit.framework"
             BlueprintName = "LogWrapperKit-MacOS"
             ReferencedContainer = "container:LogWrapperKit.xcodeproj">
          </BuildableReference>
